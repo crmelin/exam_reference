@@ -4,6 +4,8 @@ Per process items: Address space, Global variables, Open files, Child processes,
 
 Per thread items: Program counter, Registers, Stack, State
 
+add something
+
 #### Threads
 * Kernel space:
   * Bad:
